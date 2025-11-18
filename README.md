@@ -1,5 +1,7 @@
 # Installing and Using Microsoft SQL Server on Ubuntu & Debian-based Linux
 
+![image](./mssql-on-linux.jpg)
+
 This guide provides a comprehensive, step-by-step walkthrough for installing and configuring Microsoft SQL Server on Debian-based Linux systems, including Ubuntu and Kali Linux. It covers the initial setup, installation of command-line tools, basic database operations, and common management tasks.
 
 ## Table of Contents
